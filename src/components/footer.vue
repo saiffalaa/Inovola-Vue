@@ -1,19 +1,17 @@
 <template>
-  <footer className="section-space footer-bg mt-5 pt-3">
-    <div
-      className="d-flex flex-column align-items-center justify-content-center"
-    >
-      <div className="fs-1 text-white mb-5">
+  <footer class="section-space footer-bg mt-5 pt-3">
+    <div class="d-flex flex-column align-items-center justify-content-center">
+      <div class="fs-1 text-white mb-5">
         <img src="../assets/bigLogo.png" />
       </div>
-      <div className="d-flex justify-content-around w-25 mb-5">
-        <YouTubeIcon className="fs-5 text-white" />
-        <LinkedInIcon className="fs-5 text-white" />
-        <InstagramIcon className="fs-5 text-white" />
-        <TwitterIcon className="fs-5 text-white" />
+      <div class="d-flex justify-content-around w-25 mb-5">
+        <YouTubeIcon class="fs-5 text-white" />
+        <LinkedInIcon class="fs-5 text-white" />
+        <InstagramIcon class="fs-5 text-white" />
+        <TwitterIcon class="fs-5 text-white" />
       </div>
     </div>
-    <div className="pos">
+    <div class="pos">
       <ArrowCircleUpIcon class="text-warning" />
     </div>
     <div class="bg-yellow pos2">
